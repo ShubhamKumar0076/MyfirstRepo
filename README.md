@@ -3,4 +3,4 @@ This is new repo
 <br>
 Author : Shubham Kumar
 <br>
-<bold This is Markdown syntax used in Read.md similar to HTMl syntax>
+** This is the Markdowm syntax used in Readme.md **
