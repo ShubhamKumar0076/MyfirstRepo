@@ -3,4 +3,4 @@ This is new repo
 <br>
 Author : Shubham Kumar
 <br>
-** This is the Markdowm syntax used in Readme.md **
+**This is the Markdowm syntax used in Readme.md**
